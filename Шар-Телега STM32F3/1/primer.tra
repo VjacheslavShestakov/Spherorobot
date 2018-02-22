@@ -1,0 +1,31 @@
+*** Creating Trace Output File '.\1\primer.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\1\startup_stm32f30x.o"'
+### List of Objects: adding '".\1\main.o"'
+### List of Objects: adding '".\1\system_stm32f30x.o"'
+### List of Objects: adding '".\1\stm32f30x_gpio.o"'
+### List of Objects: adding '".\1\stm32f30x_misc.o"'
+### List of Objects: adding '".\1\stm32f30x_rcc.o"'
+### List of Objects: adding '".\1\stm32f30x_tim.o"'
+### List of Objects: adding '".\1\stm32f30x_usart.o"'
+### List of Objects: adding '".\1\stm32f30x_exti.o"'
+### List of Objects: adding '".\1\stm32f30x_i2c.o"'
+### List of Objects: adding '".\1\stm32f30x_syscfg.o"'
+### List of Objects: adding '".\1\stm32f30x_spi.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp ".\1\startup_stm32f30x.o" ".\1\main.o" ".\1\system_stm32f30x.o" ".\1\stm32f30x_gpio.o" ".\1\stm32f30x_misc.o" ".\1\stm32f30x_rcc.o" ".\1\stm32f30x_tim.o" ".\1\stm32f30x_usart.o" ".\1\stm32f30x_exti.o" ".\1\stm32f30x_i2c.o" ".\1\stm32f30x_syscfg.o" ".\1\stm32f30x_spi.o" 
+--strict --scatter ".\1\primer.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\1\primer.map" -o .\1\primer.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\1\primer.axf'
+### ADS-LD Command File: '.\1\primer.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\1\primer.lnp', Handle=0x0000037C
+### Writing '.lnp' file
+### ADS-LD Command file '.\1\primer.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

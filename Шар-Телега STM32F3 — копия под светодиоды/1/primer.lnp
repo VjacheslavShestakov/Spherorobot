@@ -1,0 +1,17 @@
+--cpu=Cortex-M4.fp
+".\1\startup_stm32f30x.o"
+".\1\main.o"
+".\1\system_stm32f30x.o"
+".\1\stm32f30x_gpio.o"
+".\1\stm32f30x_misc.o"
+".\1\stm32f30x_rcc.o"
+".\1\stm32f30x_tim.o"
+".\1\stm32f30x_usart.o"
+".\1\stm32f30x_exti.o"
+".\1\stm32f30x_i2c.o"
+".\1\stm32f30x_syscfg.o"
+".\1\stm32f30x_spi.o"
+--strict --scatter ".\1\primer.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\1\primer.map" -o .\1\primer.axf

@@ -1,0 +1,218 @@
+C:\Users\Recnir\Documents\Visual Studio 2008\Projects\Motors\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Recnir\Documents\Visual Studio 2008\Projects\Motors\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\Recnir\Documents\Visual Studio 2008\Projects\Motors\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\Recnir\Documents\Visual Studio 2008\Projects\Motors\Motors\obj\Debug\Motors.csproj.GenerateResource.Cache
+C:\Users\Recnir\Documents\Visual Studio 2008\Projects\Motors\Motors\bin\Debug\Motors.exe
+C:\Users\Recnir\Documents\Visual Studio 2008\Projects\Motors\Motors\bin\Debug\Motors.pdb
+C:\Users\Recnir\Documents\Visual Studio 2008\Projects\Motors\Motors\obj\Debug\Motors.exe
+C:\Users\Recnir\Documents\Visual Studio 2008\Projects\Motors\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\bin\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\йа\Рабочий стол\Motors\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\bin\Debug\Motors.exe.config
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\obj\Debug\Motors.exe
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\obj\Debug\Motors.pdb
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\bin\Debug\Motors.exe
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\bin\Debug\Motors.pdb
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\HelsinG\Desktop\ЭВМ и ВС курсач\Двигатели\Motors\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\bin\Debug\Motors.pdb
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Антон\Рабочий стол\Motors\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\bin\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\йа\Рабочий стол\Motors Вася\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Телега\Motors\bin\Debug\Motors.pdb
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\bin\Debug\Motors.pdb
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\ACER\Рабочий стол\Телега\Motors\obj\Debug\Motors.pdb
+C:\Users\admin\Desktop\Телега новье\Motors\bin\Debug\Motors.exe.config
+C:\Users\admin\Desktop\Телега новье\Motors\obj\Debug\Motors.exe
+C:\Users\admin\Desktop\Телега новье\Motors\obj\Debug\Motors.pdb
+C:\Users\admin\Desktop\Телега новье\Motors\bin\Debug\Motors.exe
+C:\Users\admin\Desktop\Телега новье\Motors\bin\Debug\Motors.pdb
+C:\Users\admin\Desktop\Телега новье\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Телега новье\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\admin\Desktop\Телега новье\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\admin\Desktop\Телега новье\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Телега новье\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Корыто\Motors\bin\Debug\Motors.exe.config
+C:\Users\admin\Desktop\Корыто\Motors\obj\Debug\Motors.exe
+C:\Users\admin\Desktop\Корыто\Motors\obj\Debug\Motors.pdb
+C:\Users\admin\Desktop\Корыто\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Корыто\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\admin\Desktop\Корыто\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\admin\Desktop\Корыто\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Корыто\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Корыто\Motors\bin\Debug\Motors.exe
+C:\Users\admin\Desktop\Корыто\Motors\bin\Debug\Motors.pdb
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\bin\Debug\Motors.exe.config
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\obj\Debug\Motors.exe
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\obj\Debug\Motors.pdb
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\bin\Debug\Motors.exe
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\bin\Debug\Motors.pdb
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Антон\Корыто\Корыто C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\bin\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\йа\Рабочий стол\Корыто C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\Антон\Рабочий стол\Корыто C#\Motors\bin\Debug\Motors.pdb
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\Антон\Рабочий стол\Гироскоп C#\Motors\bin\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\bin\Debug\Motors.pdb
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\йа\Рабочий стол\Шар C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\bin\Debug\Motors.exe.config
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\obj\Debug\Motors.exe
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\obj\Debug\Motors.pdb
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\bin\Debug\Motors.exe
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\bin\Debug\Motors.pdb
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Антон\Шар C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\bin\Debug\Motors.exe.config
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\obj\Debug\Motors.exe
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\obj\Debug\Motors.pdb
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\bin\Debug\Motors.exe
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\bin\Debug\Motors.pdb
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Антон\Шар\Шар C# Антон\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\bin\Debug\Motors.exe.config
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.exe
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.pdb
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\bin\Debug\Motors.exe
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\bin\Debug\Motors.pdb
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Антон\Шар-телега\Шар-Телега C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\bin\Debug\Motors.exe.config
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\obj\Debug\Motors.exe
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\obj\Debug\Motors.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\bin\Debug\Motors.exe
+C:\Documents and Settings\Администратор\Рабочий стол\Шар-Телега C#\Motors\bin\Debug\Motors.pdb
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\bin\Debug\Motors.exe.config
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\obj\Debug\Motors.exe
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\obj\Debug\Motors.pdb
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\bin\Debug\Motors.exe
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\TOSHIBA\Desktop\Сфероробот\Шар-Телега C#\Motors\bin\Debug\Motors.pdb
+C:\Users\Антон\YandexDisk\УДГУ\Шар-телега\Шар-Телега C#\Motors\bin\Debug\Motors.exe.config
+C:\Users\Антон\YandexDisk\УДГУ\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.exe
+C:\Users\Антон\YandexDisk\УДГУ\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.pdb
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\bin\Debug\Motors.exe.config
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\obj\Debug\Motors.exe
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\obj\Debug\Motors.pdb
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\bin\Debug\Motors.exe
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\bin\Debug\Motors.pdb
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Антон\Desktop\УДГУ\Шар-Телега\Шар-Телега C#\Motors\obj\Debug\GenerateResource.write.1.tlog
+D:\Антон\Проекты\Шар-телега\Шар-Телега C#\Motors\bin\Debug\Motors.exe.config
+D:\Антон\Проекты\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.exe
+D:\Антон\Проекты\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.pdb
+D:\Антон\Проекты\Шар-телега\Шар-Телега C#\Motors\bin\Debug\Motors.exe
+D:\Антон\Проекты\Шар-телега\Шар-Телега C#\Motors\bin\Debug\Motors.pdb
+D:\Антон\Проекты\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.csprojResolveAssemblyReference.cache
+D:\Антон\Проекты\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.Form1.resources
+D:\Антон\Проекты\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+D:\Антон\Проекты\Шар-телега\Шар-Телега C#\Motors\obj\Debug\Motors.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ПО ДИПЛОМУ\Шар телега\Шар-Телега C#\Motors\bin\Debug\Motors.exe.config
+C:\Users\User\Desktop\ПО ДИПЛОМУ\Шар телега\Шар-Телега C#\Motors\obj\Debug\Motors.exe
+C:\Users\User\Desktop\ПО ДИПЛОМУ\Шар телега\Шар-Телега C#\Motors\obj\Debug\Motors.pdb
+C:\Users\User\Desktop\ПО ДИПЛОМУ\Шар телега\Шар-Телега C#\Motors\bin\Debug\Motors.exe
+C:\Users\User\Desktop\ПО ДИПЛОМУ\Шар телега\Шар-Телега C#\Motors\bin\Debug\Motors.pdb
+C:\Users\User\Desktop\ПО ДИПЛОМУ\Шар телега\Шар-Телега C#\Motors\obj\Debug\Motors.Form1.resources
+C:\Users\User\Desktop\ПО ДИПЛОМУ\Шар телега\Шар-Телега C#\Motors\obj\Debug\Motors.Properties.Resources.resources
+C:\Users\User\Desktop\ПО ДИПЛОМУ\Шар телега\Шар-Телега C#\Motors\obj\Debug\Motors.csproj.GenerateResource.Cache

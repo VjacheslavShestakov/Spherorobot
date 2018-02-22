@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Motors">
+</Property><Property Name="Файл решения" Value="C:\Documents and Settings\йа\Рабочий стол\Motors\Motors.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Documents and Settings\йа\Рабочий стол\Motors\Motors.suo">
+</Property><Property Name="Date" Value="21 мая 2012 г.">
+</Property><Property Name="Time" Value="20:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Motors.sln" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Motors.suo" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors.suo">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Motors.csproj" Description="Успешно создана резервная копия файла проекта: C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Motors.csproj">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Form1.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Program.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Program.cs">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Form1.resx" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Documents and Settings\йа\Рабочий стол\Motors\Backup\Motors\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Motors.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Motors" Source="Motors\Motors.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Motors.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Motors.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Motors" Source="Motors\Motors.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

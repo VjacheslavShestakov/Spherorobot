@@ -1,0 +1,19 @@
+Output - Создать папку для всяких непонятных файлов
+Listing - Выбрать ту же папку
+
+С/C++
+Include
+
+.\Libraries\CMSIS\Device\ST\STM32F30x\Include;.\Libraries\STM32F30x_StdPeriph_Driver\inc;.\Utilities\STM32F3_Discovery;.\Libraries\CMSIS\Include
+
+define
+
+USE_STDPERIPH_DRIVER,STM32F4XX MANGUSTA_DISCOVERY USE_USB_OTG_FS HSE_VALUE=8000000
+
+Debug
+Use ST-Link Debugger
+Settings - SWD
+Run to main() - галка
+
+Utilities
+Use ST-Link Debugger
